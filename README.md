@@ -36,11 +36,13 @@ Construir uma aplicação web (frontend e backend) capaz de realizar a comunica�
 
 Para instalar este projeto basta seguir os seguintes passos:
 
-1º fazer a clonagem
-2º instalar os pacotes com o npm install
-3º na pasta packages/server setar a variavel de ambiente com suas credenciais
+- 1º fazer a clonagem
+- 2º instalar os pacotes com o npm install
+- 3º na pasta packages/server setar a variavel de ambiente com suas credenciais
 seguindo o padão abaixo:
+
 CREDENTIALS_MONGO=User:Password
-4º executar o comando npm run start ou npm run dev
-5º entrar na pasta packages/web
-6º executar o comando npm run dev e assim o projeto estara pronto para uso
+
+- 4º executar o comando npm run start ou npm run dev
+- 5º entrar na pasta packages/web
+- 6º executar o comando npm run dev e assim o projeto estara pronto para uso
